@@ -1,0 +1,33 @@
+# Node modules (if you use npm later)
+node_modules/
+
+# Build and dist folders
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Log and temp files
+*.log
+*.tmp
+
+# OS-specific
+ehthumbs.db
+Icon?
+
+# Firebase service account key (never push this!)
+serviceAccountKey.json
+
+# Environment variables
+.env
+
+# Live Server temp
+live-server.log
+
+# Backup files
+*.bak
